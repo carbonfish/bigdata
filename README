@@ -1,0 +1,6 @@
+HOWTO generate JAR:
+At Windows:
+<bigdata>  gradlew shadowJar
+  
+At Linux"
+<bigdata> ./gradlew shadowJar
